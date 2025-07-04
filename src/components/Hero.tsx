@@ -1,5 +1,4 @@
-
-import { MessageCircle, Filter, Star } from 'lucide-react';
+import { MessageCircle, Filter, Star, Heart, QrCode } from 'lucide-react';
 
 interface HeroProps {
   onStartChat: () => void;
